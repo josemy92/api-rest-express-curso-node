@@ -7,6 +7,8 @@ const usuarios = [
     { id: 1, nombre: "José" },
     { id: 2, nombre: "Javier" },
     { id: 3, nombre: "Luis" },
+    { id: 4, nombre: "Rodolfo" },
+    { id: 5, nombre: "Merengue" }
   ];
 
 ruta.get("/", (req, res) => {
